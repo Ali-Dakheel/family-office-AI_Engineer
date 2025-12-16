@@ -1,0 +1,13 @@
+{
+  "counterparty": "BANK ABC",
+  "initial_valuation_date": "31 January 2025",
+  "notional": "EUR 1 million",
+  "valuation_date": "31 July 2026",
+  "maturity": "07 August 2026",
+  "underlying": "Allianz SE (ISIN DE0008404005, Reuters: ALVG.DE)",
+  "coupon": "0%",
+  "barrier": "75%",
+  "calendar": "TARGET",
+  "extraction_timestamp": "2025-12-16T12:19:00.397687",
+  "source_document": "ZF4894_ALV_07Aug2026_physical.docx"
+}

@@ -1,0 +1,13 @@
+{
+  "counterparty": "BANK ABC",
+  "notional": "200 mio",
+  "isin": "FR001400QV82",
+  "underlying": "AVMAFC FLOAT\t06/30/28",
+  "maturity": "2Y",
+  "bid": "estr+45bps",
+  "offer": "2Y EVG estr+50bps",
+  "payment_frequency": "Quarterly",
+  "extraction_timestamp": "2025-12-16T15:19:11.730952",
+  "source_document": "FR001400QV82_AVMAFC_30Jun2028.txt",
+  "extraction_method": "Hybrid NER + Rules"
+}

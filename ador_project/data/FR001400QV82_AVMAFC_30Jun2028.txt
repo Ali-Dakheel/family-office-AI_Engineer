@@ -1,0 +1,6 @@
+11:49:05 I'll revert regarding BANK ABC to try to do another 200 mio at 2Y
+FR001400QV82	AVMAFC FLOAT	06/30/28
+Bid ► estr+45bps
+Offer 2Y EVG estr+50bps
+estr average Estr average / Quarterly interest payment
+
